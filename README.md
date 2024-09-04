@@ -1,10 +1,6 @@
 # Teste técnico Target Sistemas
 
---- 
-
 ## Introdução
-
---- 
 
 Teste para estágio usando as seguintes tecnologias:
 
@@ -16,8 +12,6 @@ Teste para estágio usando as seguintes tecnologias:
 - Os dados de faturamento estão nos [resources](./src/main/resources/dados.json)
 
 ## Soluções
-
----
 
 1. O resultado da soma é 91
 2. [Fibonacci](./src/main/kotlin/Fibonacci.kt)
